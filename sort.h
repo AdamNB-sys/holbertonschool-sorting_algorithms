@@ -29,5 +29,6 @@ void swap_element(int *a, int *b);
 void heapify(int *array, int n, int i);
 void heap_sort(int *array, int n);
 void radix_sort(int *array, size_t size);
+int maxInt(int *array, int size);
 
 #endif
